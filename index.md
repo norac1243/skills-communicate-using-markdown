@@ -14,3 +14,7 @@ $git --version
 ```
 var myVar = "Hello World"
 ```
+
+- [ ] Turn on github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
